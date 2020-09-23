@@ -792,7 +792,7 @@ call-to-action .button {
    background: #191919;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   color: wheat;
 }
 #contact .section-head { margin-bottom: 42px; }
 
@@ -928,7 +928,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #f5eeee;
    font-size: 14px;
    text-align: center;
    position: relative;
