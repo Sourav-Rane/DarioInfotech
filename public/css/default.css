@@ -1197,22 +1197,35 @@ properly.
 /* Resume.js */
 .course-row {
   display: flex;
-  background-color: skyblue;
+  background-color: #fff;
 }
 .course-image {
   flex: 0.7;
   text-align: center;
 }
+.syllabus-btn{
+  text-align: center;
+  align-content: center;
+  padding-top: 50px;
+  padding-right: 40px;
+}
 
 .course-description {
   flex: 1;
   text-align: left;
+  padding-right: 30px;
+
+}
+
+.line_break{
+  border: white 1px solid
 }
 
 .course-header {
   text-align: center;
   font-size: 30px;
-  margin-top: 100px;
+  margin-top: 60px;
+  margin-bottom: 30px;
 }
 
 @media only screen and (max-width: 767px) {
@@ -1228,5 +1241,9 @@ properly.
     flex: 1;
     text-align: center;
     padding: 5px 70px;
+  }
+
+  .syllabus-btn{
+    padding: 0%;
   }
 }

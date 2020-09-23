@@ -51,10 +51,28 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"Python Programing Zero To Hero",
+        "school":"Python Programing",
         "degree":"Course duration",
         "graduated":"35hrs",
         "description":"Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!"
+      },
+      {
+        "school":"Web Development for Beginners",
+        "degree":"Course duration",
+        "graduated":"30hrs",
+        "description":"Web Development in the most simplistic term means to create a website for the Internet. Learning web development can be very strange if you don’t have the right foundation at first. This course will consist of HTML, CSS and JS"
+      },
+      {
+        "school":"ReactJS",
+        "degree":"Course duration",
+        "graduated":"35hrs",
+        "description":"React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called components."
+      },
+      {
+        "school":"Computer Science for class 11th and 12th",
+        "degree":"Course duration",
+        "graduated":"40hrs",
+        "description":"Master Python and learn the fundamentals of Computer Science, like data structures and algorithms. These skills are the key to writing more efficient code and acing technical interviews, but most bootcamps don’t teach them."
       }
     ],
     "courses":[ ]
