@@ -1183,15 +1183,31 @@ properly.
   display: flex;
   padding-top: 60px;
 }
-.train-sub-div {
+.train-sub-div1 {
    display: flex;
  flex:1;
+}
+
+.train-sub-div2{
+  display: flex;
+  flex:1;
 }
 
 .train-method-item{
    flex:1;
    height: 100px;
    text-align: center;
+}
+
+@media only screen and (max-width: 767px){
+  .train-method-div{
+    flex-direction: column;
+  }
+
+  .train-sub-div2{
+    margin-top: 120px;
+  }
+ 
 }
 
 /* Resume.js */

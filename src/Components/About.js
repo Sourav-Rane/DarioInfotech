@@ -58,7 +58,7 @@ class About extends Component {
         
         <div className="train-method-div" style={{ backgroundColor: "white" }}>
          
-          <div className="train-sub-div">
+          <div className="train-sub-div1">
             <div className="train-method-item">
               <img src={book} />
               <p style={textStyle}>Theory</p>
@@ -73,7 +73,7 @@ class About extends Component {
             </div>
           </div>
           
-          <div className="train-sub-div">
+          <div className="train-sub-div2">
             <div className="train-method-item">
               <img src={certify} />
               <p style={textStyle}>Certification</p>
