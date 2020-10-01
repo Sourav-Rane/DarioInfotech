@@ -42,7 +42,7 @@ class Contact extends Component {
               autoClose: 5000,
               hideProgressBar: false,
               closeOnClick: true,
-              pauseOnHover: true,
+              pauseOnHover: false,
               draggable: false,
               progress: undefined,
             }
@@ -63,7 +63,7 @@ class Contact extends Component {
             autoClose: 5000,
             hideProgressBar: false,
             closeOnClick: true,
-            pauseOnHover: true,
+            pauseOnHover: false,
             draggable: false,
             progress: undefined,
           });
@@ -75,7 +75,7 @@ class Contact extends Component {
         autoClose: 5000,
         hideProgressBar: false,
         closeOnClick: true,
-        pauseOnHover: true,
+        pauseOnHover: false,
         draggable: false,
         progress: undefined,
       });
