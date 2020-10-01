@@ -144,50 +144,42 @@ const Modal = (props) => {
   let class12_syl = (
     <ol>
       <li>
-        Computer Systems and Organisation
+        Computational Thinking and Programming - 2
         <ol>
-          <li>Basic computer organisation</li>
-          <li>Types of software</li>
-          <li>Memory Units</li>
+          <li>Revist Python</li>
+          <li>Functions</li>
+          <li>File handling</li>
           <li>Boolean logic</li>
-          <li>Number System</li>
-          <li>Encoding Schemes</li>
-          <li>Concept of Compiler and Interpreter</li>
-          <li>Operating System (OS) </li>
-          <li>Concept of cloud computing and cloud services</li>
+          <li>Using Python libraries</li>
+          <li>Recursion</li>
+          <li>Data-structures</li>
         </ol>
       </li>
       <li>
-        Computational Thinking and Programming - 1
+        Computer Networks
         <ol>
-          <li>Introduction to Problem solving</li>
-          <li>Decomposition</li>
-          <li>Features of Python</li>
+          <li>Evolution of Networking</li>
+          <li>Data Communication terminologies</li>
+          <li>Transmission media</li>
           <li>Comments</li>
-          <li>Introduce the notion of a variable and methods</li>
-          <li>Knowledge of data types and operators</li>
-          <li>Operators and types</li>
-          <li>Execution of a program and error debugging</li>
-          <li>Conditional statements</li>
-          <li>Notion of iterative computation and control flow</li>
-          <li>Strings and its methods</li>
-          <li>Lists and its methods</li>
-          <li>Tuples and its methods</li>
-          <li>Dictionary and methods</li>
-          <li>Sorting algorithm</li>
-          <li>Introduction to Python modules:</li>
+          <li>Network Topologies and Protocol</li>
+          <li>Mobile Telecommunication Technologies</li>
+          <li>Introduction To Web services</li>
+          <li>
+            E-commerce payment transactions using online banking, mobile
+            banking, payment apps and services
+          </li>
         </ol>
       </li>
       <li>
-        Society, Law and Ethics
+        Database Management
         <ol>
-          <li>Cyber Safety</li>
-          <li>Approriate usage of social networks</li>
-          <li>
-            Intellectual property rights,plagiarism, digital rights management
-          </li>
-          <li>Privacy laws, fraud, cyber-crime- phishing</li>
-          <li>Technology and society</li>
+          <li>Database Concepts</li>
+          <li>Relational data model</li>
+          <li>Structured Query Language</li>
+          <li>Data Types</li>
+          <li>SQL commands</li>
+          <li>Interface of Python with an SQL database</li>
         </ol>
       </li>
     </ol>
@@ -198,7 +190,6 @@ const Modal = (props) => {
   if (props.data === "react") data = react_syl;
   if (props.data === "py_11") data = class11_syl;
   if (props.data === "py_12") data = class12_syl;
-  
 
   return (
     <div id="myModal" class="modal">
