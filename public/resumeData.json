@@ -6,7 +6,7 @@
     "bioL1":"Dario Infotech is one of the best training institutes in Bangalore, offering most of the trending software courses at affordable prices. Our training programs are fully intended to satisfy every student’s needs and requirements. As a software training institute, we provide individual and corporate training in majority of the IT/software courses like Python, Data Science, React JS, Java, React Native, Web development training and much more.",
     "bioL2":"Are you looking for career development? Are you in non IT field and would like to step into IT field and see your dreams come true? Are you looking for a change – maybe a change in role, manual testing to developer, mainframe to Data Analytics, home-maker looking for a new phase of life, BPO job to IT job? Are you in the same role for last 5 years and trying to get a promotion? Are you someone who has been thrown into a field of no expertise? When is the last time you have invested in your career development?",
     "bioL3":"Wake up, Step up, Up skill, Cross skill! See your dreams come true!",
-    "contactmessage":"To recieve a call back from us please submit your query below",
+    "contactmessage":"For Demo classes, reach out to us using the form or contact us over WhatsApp",
     "email": "sourav112197@gmail.com",
     "phone": "96860 32650",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
@@ -73,6 +73,12 @@
         "degree":"Course duration",
         "graduated":"40hrs",
         "description":"Master Python and learn the fundamentals of Computer Science, like data structures and algorithms. These skills are the key to writing more efficient code and acing technical interviews, but most bootcamps don’t teach them."
+      },
+      {
+        "school":"Computer Science for class 12th",
+        "degree":"Course duration",
+        "graduated":"50hrs",
+        "description":"Re-vist Python by going through its various data structures. Learn File handling, Python libraries, simple algorithms and much more. Then we dive in to Evolution of Networking to knowing various protocols. Last but not least we will learn about how to manage data using SQL."
       }
     ],
     "courses":[ ]

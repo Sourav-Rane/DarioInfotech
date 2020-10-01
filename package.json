@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "anix": "^0.3.3",
+    "axios": "^0.20.0",
     "jquery": "^3.2.1",
     "node-sass": "^4.14.1",
     "particles-bg": "^2.3.12",
@@ -12,6 +13,7 @@
     "react-dom": "^16.2.0",
     "react-ga": "^2.3.5",
     "react-scripts": "1.0.17",
+    "react-toastify": "^6.0.8",
     "sass-loader": "^10.0.1"
   },
   "scripts": {
